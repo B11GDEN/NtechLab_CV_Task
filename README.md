@@ -31,3 +31,5 @@
 
 Результат предсказания модели на тестовых данных:
 ![data](Task2/imgs/predict_batch.png)
+
+## Для использования файла process.py поместите в одну директорию с ним файл https://drive.google.com/file/d/1-AYqIzIJKUOMBk_0IVrkXHQ_fujebpWc/view?usp=sharing
