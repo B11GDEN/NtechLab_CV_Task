@@ -33,3 +33,8 @@
 ![data](Task2/imgs/predict_batch.png)
 
 ## Для использования файла process.py поместите в одну директорию с ним файл https://drive.google.com/file/d/1-AYqIzIJKUOMBk_0IVrkXHQ_fujebpWc/view?usp=sharing
+
+## Для запуска процесса тренировки нейросети:  
+1) Запустите notebook файл на google colab c gpu
+2) Добавьте на ваш гугл диск исходный сжатый датасет и измените следующие строчки:
+«!tar -xf "/content/drive/My Drive/NtechLab/internship_data.tar.gz"»
