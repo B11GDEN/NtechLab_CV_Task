@@ -12,15 +12,15 @@
 В результате были получены следующие графики лосс функций и метрик:
 
 Тренировочная лосс функция
-![data](Task2/imgs/train_loss_0.png)
+![train_loss_0](Task2/imgs/train_loss_0.png)
 
 Тренировочная метрика
-![data](Task2/imgs/train_acc_0.png)
+![train_acc_0](Task2/imgs/train_acc_0.png)
 
 Тестовая лосс функция
-![data](Task2/imgs/val_loss_0.png)
+![val_loss_0](Task2/imgs/val_loss_0.png)
 
 Тестовая метрика
-![data](Task2/imgs/val_acc_0.png)
+![val_acc_0](Task2/imgs/val_acc_0.png)
 
 Данные графики можно посмотреть при помощи tensorboard командой %tensorboard --logdir lightning_logs (скопируйте папку lightning_logs)
